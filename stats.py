@@ -1,1 +1,1 @@
-#just a place holder
+print("stats collector")
